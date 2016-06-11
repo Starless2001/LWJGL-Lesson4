@@ -1,4 +1,4 @@
-# LWJGL-Lesson4
+# LWJGL-Lessons
 Studying LWGL with https://www.youtube.com/user/TheCodingUniverse
 
 This is what I managed to create from watching lessons 1 to 4 of this playlist:
